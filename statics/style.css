@@ -1,0 +1,11 @@
+/* general helpers for auth pages */
+body {
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  background: linear-gradient(180deg, #eef2ff, #f8f9ff);
+}
+
+/* simple alert styles if Flask flash used */
+.alert { padding:8px 12px; border-radius:6px; margin-bottom:10px; }
+.alert-success { background:#e6ffed; color:#0a7a3a; border:1px solid #b7f0c2; }
+.alert-danger { background:#ffecee; color:#841416; border:1px solid #f2b7b7; }
+.alert-info { background:#eef6ff; color:#0b4f9a; border:1px solid #cfe7ff; }
