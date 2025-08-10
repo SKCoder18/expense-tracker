@@ -5,8 +5,6 @@ import matplotlib.pyplot as plt
 from io import BytesIO
 import base64
 from datetime import datetime
-
-# Flask Login imports
 from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user, current_user
 from werkzeug.security import generate_password_hash, check_password_hash
 
