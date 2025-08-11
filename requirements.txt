@@ -3,7 +3,5 @@ Flask-Login==0.6.3
 gunicorn==21.2.0
 pandas==2.2.2
 numpy==1.26.4
-matplotlib==3.8.4
-werkzeug==2.3.8
-psycopg2-binary==2.9.9
-scikit-learn==1.4.0
+matplotlib==3.9.0
+werkzeug==2.3.7
