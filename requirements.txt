@@ -1,7 +1,5 @@
 Flask==2.3.3
-Flask-Login==0.6.3
 gunicorn==21.2.0
-pandas==2.2.2
-numpy==1.26.4
-matplotlib==3.9.0
-werkzeug==2.3.7
+pandas==2.0.3
+numpy==1.24.4
+psycopg2-binary==2.9.9
